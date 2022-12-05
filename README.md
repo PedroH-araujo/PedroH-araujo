@@ -1,7 +1,7 @@
 ### Olá! Eu sou Pedro Henrique
 ##
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript e Typescript
+- 🎯 Hoje trabalho com front-end
+- 🧠 Estudando JavaScript e Typescript
 - 😄 Pronouns: ele/dele
 
 
