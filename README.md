@@ -1,7 +1,7 @@
 ### Olá! Eu sou Pedro Henrique
 ##
 - 🎯 Hoje trabalho com front-end
-- 🧠 Estudando Angular
+- 🧠 Estudando <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
 - 😄 Pronouns: ele/dele
 
 
