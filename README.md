@@ -1,8 +1,7 @@
-### Olá! Eu sou Pedro Henrique
-##
+# Olá! <img align="center" alt="Olá" height="30" width="40" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> Eu sou Pedro Henrique
+
 - 🎯 Hoje trabalho com front-end
 - 🧠 Estudando <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
