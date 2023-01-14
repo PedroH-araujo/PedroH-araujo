@@ -1,7 +1,7 @@
 # Olá! <img align="center" alt="Olá" height="30" width="40" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> Eu sou Pedro Henrique
 
-- 🎯 Hoje trabalho com front-end
-- 🧠 Estudando <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"><img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<h3> 🎯 Hoje trabalho como desenvolvedor front-end</h2>
+<h3> 🧠 Estudando <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"><img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></h3>
 
 
 <div align="center">
