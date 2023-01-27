@@ -1,19 +1,17 @@
 # Olá! <img align="center" alt="Olá" height="30" width="40" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> Eu sou Pedro Henrique
 
-<h3> 🎯 Hoje trabalho como desenvolvedor front-end</h2>
-<h3> 🧠 Estudando <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"><img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></h3>
+<h3> 🎯 Hoje trabalho como desenvolvedor front-end utilizando 
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </h2>
+<h3> 🧠 Estudando <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></h3>
 
 
 <div align="center">
   <a href="https://github.com/PedroH-araujo">
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=PedroH-araujo&show_icons=true&theme=radical"/>
   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-araujo&layout=compact&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
 </div>
 
 ##
