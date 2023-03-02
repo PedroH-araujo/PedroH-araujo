@@ -8,10 +8,10 @@
 <h3> 🧠 Estudando  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><img align="center" alt="TJavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></h3>
 
 
-<div align="center">
+<div>
   <a href="https://github.com/PedroH-araujo">
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=PedroH-araujo&show_icons=true&theme=radical"/>
-  <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-araujo&layout=compact&theme=radical"/>
+  <img height="230em"  src="https://github-readme-stats.vercel.app/api?username=PedroH-araujo&show_icons=true&theme=radical"/>
+  <img height="230em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroH-araujo&layout=compact&theme=radical"/>
 </div>
 
 ##
